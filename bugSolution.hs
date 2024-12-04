@@ -1,0 +1,1 @@
+The solution involves adding a catch-all pattern to ensure the function handles all possible input values.  The `_` wildcard pattern matches any value that has not been matched by previous patterns. This prevents runtime errors due to non-exhaustive pattern matching.  Error handling can be implemented within the catch-all pattern to manage unexpected inputs appropriately.
