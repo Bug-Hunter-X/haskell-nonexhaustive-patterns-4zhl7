@@ -1,0 +1,1 @@
+The following Haskell code attempts to use a pattern matching in a function that is not exhaustive. This leads to a runtime error when an unexpected case is encountered.
